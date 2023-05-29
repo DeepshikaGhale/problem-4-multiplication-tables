@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{96614956-9686-4332-9AB0-1AC912213B0B}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.46" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MultiplicationTables PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiplicationTables/MainPage.xaml">
+    <Files>
+      <File FileName="MultiplicationTables/MainPage.xaml.cs" />
+      <File FileName="MultiplicationTables/MainPage.xaml" Line="74" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiplicationTables" expanded="True">
+            <Node name="MultiplicationTables" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
